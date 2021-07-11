@@ -1,3 +1,6 @@
 [submodule "java-conformance-tests"]
 	path = java-conformance-tests
 	url = https://github.com/googleapis/java-conformance-tests.git
+[submodule "submodule-demo-0"]
+	path = submodule-demo-0
+	url = https://github.com/aeharvlee/submodule-demo-0.git
